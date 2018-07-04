@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+
+awesome-angular-app/node_modules
+awesome-angular-app/package-lock.json
+
+awesome-react-app/node_modules
+awesome-react-app/build
+awesome-react-app/testing
+awesome-react-app/yarn.lock
+
+custom-elements/awesome-name-label/node_modules
+custom-elements/awesome-name-label/package-lock.json
+custom-elements/awesome-name-label/dist
